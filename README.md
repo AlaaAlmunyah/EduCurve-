@@ -1,4 +1,4 @@
-# Innovative Educational Solution
+# EduCurve
 
 ## Overview
 
@@ -34,10 +34,11 @@ Xcode is Apple’s integrated development environment (IDE) for macOS, used for 
 ### URLSession
 URLSession is a network API provided by Apple that allows apps to send and receive data to and from servers. It supports a wide range of networking tasks, including data fetching, downloading, and uploading, making it crucial for integrating external APIs like OpenAI's GPT-4.
 
-![Network Icon](https://example.com/network_icon.png) *(placeholder)*
+
+
 ## Setup and Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/innovative-educational-solution.git
-   cd innovative-educational-solution
+   git clone https://github.com/AlaaAlmunyah/EduCurve.git
+   cd EduCurve
