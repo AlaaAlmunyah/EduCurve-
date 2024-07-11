@@ -21,17 +21,10 @@ SwiftUI is Apple's modern framework for building user interfaces across all Appl
 ### InstantSearch Voice Overlay
 InstantSearch Voice Overlay is a voice recognition overlay that simplifies adding voice search capabilities to applications. It leverages advanced speech recognition algorithms to capture and transcribe user speech in real-time, allowing for intuitive voice interactions within the app.
 
-![Voice Recognition Icon](https://example.com/voice_icon.png) *(placeholder)*
-
-### CoreML
-CoreML is a machine learning framework by Apple that enables the integration of trained machine learning models into iOS apps. CoreML supports various model types and provides tools for model conversion, making it easy to leverage machine learning within the app.
-
-![CoreML Icon](https://developer.apple.com/assets/elements/icons/coreml/coreml-64x64_2x.png)
 
 ### OpenAI GPT-4
 GPT-4 is a state-of-the-art language model developed by OpenAI. It excels in natural language understanding and generation, enabling complex text processing tasks such as text summarization, question generation, and content review. In this solution, GPT-4 is used for generating quiz questions, reviewing speech input, and providing corrective feedback.
 
-![OpenAI Icon](https://example.com/openai_icon.png) *(placeholder)*
 
 ### Xcode
 Xcode is Apple’s integrated development environment (IDE) for macOS, used for developing software for macOS, iOS, watchOS, and tvOS. It includes a suite of software development tools, including a graphical user interface builder, a compiler, and other tools necessary for app development.
@@ -42,7 +35,6 @@ Xcode is Apple’s integrated development environment (IDE) for macOS, used for 
 URLSession is a network API provided by Apple that allows apps to send and receive data to and from servers. It supports a wide range of networking tasks, including data fetching, downloading, and uploading, making it crucial for integrating external APIs like OpenAI's GPT-4.
 
 ![Network Icon](https://example.com/network_icon.png) *(placeholder)*
-
 ## Setup and Installation
 
 1. **Clone the repository:**
